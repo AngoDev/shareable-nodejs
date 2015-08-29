@@ -1,0 +1,29 @@
+{
+  "name": "shareable",
+  "version": "1.0.0",
+  "description": "A blogging platform built in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AngoDev/shareable-nodejs.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "Flowck II <flowck96@hotmail.com> (http://flowck.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngoDev/shareable-nodejs/issues"
+  },
+  "homepage": "https://github.com/AngoDev/shareable-nodejs#readme",
+  "dependencies": {
+    "hapi": "^9.0.3",
+    "jade": "^1.11.0",
+    "lodash": "^3.10.1",
+    "vision": "^3.0.0"
+  }
+}
