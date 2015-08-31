@@ -14,3 +14,6 @@ gulp.task("stylus", function(){
 	})
 	
 });
+
+// Set deafult tasks
+gulp.task('default', ["stylus"]);
